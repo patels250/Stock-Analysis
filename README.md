@@ -29,8 +29,9 @@ Original code runtime for 2018:
 Refactored code runtime for 2018:
 ![VBA_Challenge_2018.PNG](Resources/VBA_Challenge_2018.PNG)
 
-As seen above, the refactored code was able to cut runtime by approximately 75% in both years.
-
+As seen above, the refactored code was able to cut runtime by approximately 75% in each year. The main improvement made to the code was using an incrementing tickerIndex when looping through all the rows instead of using nested for loops to loop through the tickers and then the rows. 
 
 ## Summary
+These results show that refactoring code can have many advantages such as reducing runtime, reducing memory usage, and making code more organized. There are disadvantages to refactoring code as well. The refactoring process can take a lot of time, especially for someone who wasn't previously familiar with the code. On an industrial scale, the benefits of refactoring code may not be worth the time and money used to refactor it.
 
+In the case of this project, refactoring the code was absolutely worth it overall. The time spent refactoring was minimal and there was a significant reduction in runtime.
