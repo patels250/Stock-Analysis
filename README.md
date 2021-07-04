@@ -10,9 +10,19 @@ The purpose of this project was to analyze stock performance using data from 12 
 
 ### Analysis of Stocks
 
-![Performance_2017.PNG](Resources/Performance_2017.PNG)![Performance_2018.PNG](Resources/Performance_2018.PNG)
+![Performance_2017.PNG](Resources/Performance_2017.PNG)
+![Performance_2018.PNG](Resources/Performance_2018.PNG)
+
+As seen above, stock performance in 2017 was better than stock performance in 2018 almost across the board. Some stocks were traded in greater volumes in 2017 than in 2018 and vice versa. But overall, the percentage returns in 2017 were far greater than the percentage returns in 2018.
 
 ### Refactored Code
+
+Original code runtime for 2017:
+![Original_2017.PNG](Resources/Original_2017.PNG)
+
+Refactored code runtime for 2017:
+![VBA_Challenge_2017.PNG](Resources/VBA_Challenge_2017.PNG)
+
 
 ## Summary
 
