@@ -29,6 +29,8 @@ Original code runtime for 2018:
 Refactored code runtime for 2018:
 ![VBA_Challenge_2018.PNG](Resources/VBA_Challenge_2018.PNG)
 
+As seen above, the refactored code was able to cut runtime by approximately 75% in both years.
+
 
 ## Summary
 
