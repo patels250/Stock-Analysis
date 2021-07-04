@@ -23,6 +23,12 @@ Original code runtime for 2017:
 Refactored code runtime for 2017:
 ![VBA_Challenge_2017.PNG](Resources/VBA_Challenge_2017.PNG)
 
+Original code runtime for 2018:
+![Original_2018.PNG](Resources/Original_2018.PNG)
+
+Refactored code runtime for 2018:
+![VBA_Challenge_2018.PNG](Resources/VBA_Challenge_2018.PNG)
+
 
 ## Summary
 
