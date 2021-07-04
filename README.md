@@ -10,8 +10,7 @@ The purpose of this project was to analyze stock performance using data from 12 
 
 ### Analysis of Stocks
 
-![Performance_2017.PNG](Resources/Performance_2017.PNG)
-![Performance_2018.PNG](Resources/Performance_2018.PNG)
+![Performance_2017.PNG](Resources/Performance_2017.PNG)![Performance_2018.PNG](Resources/Performance_2018.PNG)
 
 ### Refactored Code
 
